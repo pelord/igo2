@@ -1,0 +1,24 @@
+{
+  "routingSources": {
+    "osrm": {
+      "enabled": true
+    }
+  },
+  "theme": "blue-theme",
+  "hasExpansionPanel": true,
+  "hasGeolocateButton": true,
+  "showRotationButtonIfNoRotation": false,
+  "hasFeatureEmphasisOnSelection": true,
+  "menuButtonReverseColor": false,
+  "searchSources": {
+    "cadastre": {
+      "enabled": true
+    }
+  },
+  "title": "IGO",
+  "welcomeWindow": {
+    "showAgainOnNewIGOVersion": true,
+    "nbVisitToShow": 2,
+    "nbVisitToShowAgain": 30
+  }
+}
