@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1621479667199,
+  "timestamp": 1621481265321,
   "index": "/igo2/index.html",
   "assetGroups": [
     {
@@ -13,8 +13,8 @@
       "urls": [
         "/igo2/favicon.ico",
         "/igo2/index.html",
-        "/igo2/main-es2015.c36115c8129071a2fb4f.js",
-        "/igo2/main-es5.c36115c8129071a2fb4f.js",
+        "/igo2/main-es2015.27088f876d95f2a70ff9.js",
+        "/igo2/main-es5.27088f876d95f2a70ff9.js",
         "/igo2/manifest.webmanifest",
         "/igo2/polyfills-es2015.82c4b591d6706b74bb67.js",
         "/igo2/polyfills-es5.273c079dce2abf88afb9.js",
@@ -79,9 +79,9 @@
     "/igo2/assets/images/igo-loading.gif": "52dfeeb71917712d693bf6cde72a9f0efbf1d312",
     "/igo2/assets/images/loading.gif": "2d3a0a80465c4932c49b8187723073b41d6f238e",
     "/igo2/favicon.ico": "1c2dd41874171f145418d08ee122dc4812791e17",
-    "/igo2/index.html": "566de95bc34b2d39303b14f17eb4432b73c75b0d",
-    "/igo2/main-es2015.c36115c8129071a2fb4f.js": "8978430c2f6fd5c0cfa5275757ad9dc2e85bad72",
-    "/igo2/main-es5.c36115c8129071a2fb4f.js": "139cbc5369cd3e26b9ad0e371411f861c00d3df8",
+    "/igo2/index.html": "de3eecc956ef0451dbc868a31f71a8da11d078be",
+    "/igo2/main-es2015.27088f876d95f2a70ff9.js": "30a135623346845bc8ee0e0bd18da65f2364d620",
+    "/igo2/main-es5.27088f876d95f2a70ff9.js": "ecbbdf12e4fc66f496e7c0f46c6e4bf4a81518d2",
     "/igo2/manifest.webmanifest": "fb0d9f7724a52ea63394fd98522d76f43a05762c",
     "/igo2/polyfills-es2015.82c4b591d6706b74bb67.js": "927bacec2bba3086dff1c9bcab9e3768c270f327",
     "/igo2/polyfills-es5.273c079dce2abf88afb9.js": "bbd061ee90c7bbfef1d712734df4384d0a9c992b",
