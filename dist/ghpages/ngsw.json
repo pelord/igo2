@@ -1,0 +1,142 @@
+{
+  "configVersion": 1,
+  "timestamp": 1621964784236,
+  "index": "/igo2/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/igo2/config/config.json",
+        "/igo2/config/interactiveTour.json",
+        "/igo2/contexts/_base.json",
+        "/igo2/contexts/_contexts.json",
+        "/igo2/contexts/_default.json",
+        "/igo2/contexts/layerSync.json",
+        "/igo2/contexts/mapOverlay.json",
+        "/igo2/contexts/ogcFilters.json",
+        "/igo2/contexts/simple2.json",
+        "/igo2/contexts/testExport.json",
+        "/igo2/contexts/timeFilter.json",
+        "/igo2/contexts/variousFormats.json",
+        "/igo2/contexts/workspace.json",
+        "/igo2/favicon.ico",
+        "/igo2/index.html",
+        "/igo2/locale/en.json",
+        "/igo2/locale/fr.json",
+        "/igo2/main-es2015.c36115c8129071a2fb4f.js",
+        "/igo2/main-es5.c36115c8129071a2fb4f.js",
+        "/igo2/manifest.webmanifest",
+        "/igo2/polyfills-es2015.82c4b591d6706b74bb67.js",
+        "/igo2/polyfills-es5.273c079dce2abf88afb9.js",
+        "/igo2/runtime-es2015.af1b92d1c4f31acf1ae5.js",
+        "/igo2/runtime-es5.af1b92d1c4f31acf1ae5.js",
+        "/igo2/styles.26604a4e84fb5b50748c.css",
+        "/igo2/vendor-es2015.17996399a4acdf275eb3.js",
+        "/igo2/vendor-es5.17996399a4acdf275eb3.js"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/igo2/assets/icons/icon-128x128.png",
+        "/igo2/assets/icons/icon-144x144.png",
+        "/igo2/assets/icons/icon-152x152.png",
+        "/igo2/assets/icons/icon-192x192-full.png",
+        "/igo2/assets/icons/icon-192x192.png",
+        "/igo2/assets/icons/icon-384x384.png",
+        "/igo2/assets/icons/icon-512x512.png",
+        "/igo2/assets/icons/icon-72x72.png",
+        "/igo2/assets/icons/icon-96x96.png",
+        "/igo2/assets/icons/icon.svg",
+        "/igo2/assets/igo2/core/icons/mdi.svg",
+        "/igo2/assets/igo2/core/logo.png",
+        "/igo2/assets/igo2/geo/icons/cross_black_18px.svg",
+        "/igo2/assets/igo2/geo/icons/place_blue_36px.svg",
+        "/igo2/assets/igo2/geo/icons/place_green_36px.svg",
+        "/igo2/assets/igo2/geo/icons/place_red_36px.svg",
+        "/igo2/assets/igo2/geo/icons/place_yellow_36px.svg",
+        "/igo2/assets/images/igo-loading.gif",
+        "/igo2/assets/images/loading.gif"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/igo2/assets/icons/icon-128x128.png": "3b80e2989e0a527d8ea266ee2d8659fdd3fd17b8",
+    "/igo2/assets/icons/icon-144x144.png": "7ceb23870b6789fe463db0a62492808834870d64",
+    "/igo2/assets/icons/icon-152x152.png": "d4aadcbaa5a0c83d24e7b2caae87d0d466377acb",
+    "/igo2/assets/icons/icon-192x192-full.png": "49ae797e90c8dc314b9f73c6ba016b54b1fc85d4",
+    "/igo2/assets/icons/icon-192x192.png": "49ae797e90c8dc314b9f73c6ba016b54b1fc85d4",
+    "/igo2/assets/icons/icon-384x384.png": "e76c3528987e376c183d857e30367cc0abcc4dc2",
+    "/igo2/assets/icons/icon-512x512.png": "a45f3de33cfd116639af847ae71e0834911ba960",
+    "/igo2/assets/icons/icon-72x72.png": "2c4ec35539e51b8c8a605bf8abc82ade10fd0698",
+    "/igo2/assets/icons/icon-96x96.png": "8a677ba0c9faed892743115e42a7c99bf49a8dcf",
+    "/igo2/assets/icons/icon.svg": "ff8d0a8cdc1a60a76b3bcbfabda914fb007d2e17",
+    "/igo2/assets/igo2/core/icons/mdi.svg": "5f383669c6cb349c6a326116b0de97da66b0e076",
+    "/igo2/assets/igo2/core/logo.png": "fa0fd48bb87b9d51544c29bc7f62e4b688e48013",
+    "/igo2/assets/igo2/geo/icons/cross_black_18px.svg": "fabbbbea706904f6c9ec97360a3cf144c225083f",
+    "/igo2/assets/igo2/geo/icons/place_blue_36px.svg": "75d89f8747c8b5450baf4efdb6b563fcab130ac3",
+    "/igo2/assets/igo2/geo/icons/place_green_36px.svg": "f0a84b055a5995ab5f0a4addd5cc296db15a86c4",
+    "/igo2/assets/igo2/geo/icons/place_red_36px.svg": "860e17110df09974187be6ff86cdbb69f70c43ed",
+    "/igo2/assets/igo2/geo/icons/place_yellow_36px.svg": "6825d05eee00f9cffe510208cf1c3aff4cffe918",
+    "/igo2/assets/images/igo-loading.gif": "52dfeeb71917712d693bf6cde72a9f0efbf1d312",
+    "/igo2/assets/images/loading.gif": "2d3a0a80465c4932c49b8187723073b41d6f238e",
+    "/igo2/config/config.json": "8d477468874c91ca81dd0ce1f750bca3c60d3e39",
+    "/igo2/config/interactiveTour.json": "a077746c376a958a9217c7907457ebb47022aa79",
+    "/igo2/contexts/_base.json": "602566045b655c3c68bff3e541b2f1afbbe248c6",
+    "/igo2/contexts/_contexts.json": "cbcc972f10ff1f9d27b0e16cedb8ac936834deb3",
+    "/igo2/contexts/_default.json": "11e88f5d2d4e54c1608521ff2aefb1bebf7dbd03",
+    "/igo2/contexts/layerSync.json": "5862b76fc39df42d09341397e7692bf548585cd7",
+    "/igo2/contexts/mapOverlay.json": "a08d64aba18ec9deacf1b18ebf27d57c106a83d5",
+    "/igo2/contexts/ogcFilters.json": "f01e12a40ead86a5dccf817dd6c82215700727c7",
+    "/igo2/contexts/simple2.json": "7c758a839f4de95a0cc353914ec368f5ee6839bf",
+    "/igo2/contexts/testExport.json": "89c78278cbf4bff8c30a512e070b87aa2ff9cb57",
+    "/igo2/contexts/timeFilter.json": "adf48c19524db9fc9d37736e113556fa954ef972",
+    "/igo2/contexts/variousFormats.json": "6ffc824c9129efa6a630ca471d4b04466d2d674d",
+    "/igo2/contexts/workspace.json": "d9c76742d78a0469a855fea2aebd8ed44dcb4e5a",
+    "/igo2/favicon.ico": "1c2dd41874171f145418d08ee122dc4812791e17",
+    "/igo2/index.html": "566de95bc34b2d39303b14f17eb4432b73c75b0d",
+    "/igo2/locale/en.json": "87042201702408d00f9bac191c9ed1ff9eb137f8",
+    "/igo2/locale/fr.json": "0a94b615c144e92fba9b7660bafa6eeafdfd0564",
+    "/igo2/main-es2015.c36115c8129071a2fb4f.js": "8978430c2f6fd5c0cfa5275757ad9dc2e85bad72",
+    "/igo2/main-es5.c36115c8129071a2fb4f.js": "139cbc5369cd3e26b9ad0e371411f861c00d3df8",
+    "/igo2/manifest.webmanifest": "fb0d9f7724a52ea63394fd98522d76f43a05762c",
+    "/igo2/polyfills-es2015.82c4b591d6706b74bb67.js": "927bacec2bba3086dff1c9bcab9e3768c270f327",
+    "/igo2/polyfills-es5.273c079dce2abf88afb9.js": "bbd061ee90c7bbfef1d712734df4384d0a9c992b",
+    "/igo2/runtime-es2015.af1b92d1c4f31acf1ae5.js": "5cbeb61914d0a24983ab73b56cc50f68b89d22cb",
+    "/igo2/runtime-es5.af1b92d1c4f31acf1ae5.js": "6a8edbf1ea8fac05ce945a9cfe9577ae5d86df5d",
+    "/igo2/styles.26604a4e84fb5b50748c.css": "bd57057b7c3fbd6c4eaf22d25ad772a9444dd42b",
+    "/igo2/vendor-es2015.17996399a4acdf275eb3.js": "62ee4b74178a500f0a53c5ee0b2256728a223079",
+    "/igo2/vendor-es5.17996399a4acdf275eb3.js": "7fcc0e03cd4c6990e8239d190cbe22a166142f36"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
