@@ -337,6 +337,7 @@ Propriétés - Objet InteractiveTourStep
        * - title
          - String
          - .. line-block::
+  
                Le titre de la boite d'aide
          - ...
          - ...
@@ -346,7 +347,6 @@ Propriétés - Objet InteractiveTourStep
 
 Liens
       - `InteractiveTourStep interface <https://github.com/infra-geo-ouverte/igo2-lib/tree/master/packages/common/src/lib/interactive-tour/interactive-tour.interface.ts>`_
-
 
 
 Traduction
