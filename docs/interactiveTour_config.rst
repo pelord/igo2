@@ -351,9 +351,8 @@ Liens
 
 Traduction
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
-Il est possible de mettre une traduction aux différents messages, pour ce faire vous devez utiliser une clé de traduction que vous définissez
- et inscrire le message dans les fichiers en.json et fr.json. Le message s'affichera en fonction de la langue de votre navigateur internet.
-
+Il est possible de mettre une traduction aux différents messages, pour ce faire vous devez utiliser une clé de traduction que vous définissez 
+et inscrire le message dans les fichiers en.json et fr.json. Le message s'affichera en fonction de la langue de votre navigateur internet.
 
 
 Exemple
@@ -413,7 +412,6 @@ L'élément de mon tour n'est pas mis en surbrillance.
         - Vérifier selon la séquence si votre élément est bien disponible lors du déclanchement du step. Il se pourrait que vous deviez ajouter
           une action ainsi qu'un wait sur votre élément HTML si par exemple vous cliquez sur un menu et voulez sélectionner un élément à l'intérieur
           dans l'étape suivante.
-
 
 
 Liens
