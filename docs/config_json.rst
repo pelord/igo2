@@ -48,6 +48,15 @@ Important : Notez que le fichier config.json a préséance sur le fichier enviro
 Résumé
 *********************
 
+
+    .. tabularcolumns:: |p{1cm}|p{7cm}|
+
+    .. csv-table:: Lorem Ipsum
+       :file: _files/lorem-tab.csv
+       :header-rows: 1
+       :class: longtable
+       :widths: 1 1
+
     .. list-table::
 
        :widths: 10 10 30 15
