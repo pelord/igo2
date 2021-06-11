@@ -4,7 +4,6 @@
 .. |time| date:: %H:%M
 
 
-
 .. |CC| image:: images/CC-BY-SA.png
 
   
