@@ -1,5 +1,4 @@
 rules:
-    american_english: ~
     avoid_repetetive_words: ~
     blank_line_after_anchor: ~
     blank_line_after_directive: ~

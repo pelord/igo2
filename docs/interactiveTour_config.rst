@@ -54,6 +54,7 @@ Exemples
 Propriétés - Objet InteractiveTourOptions
 
     .. list-table::
+
        :widths: 10 10 30 15 10
        :header-rows: 1
 
@@ -244,12 +245,12 @@ Exemples
       }
 
 
-
 .. _igoInteractiveTourStep:
 
 Propriétés - Objet InteractiveTourStep
 
     .. list-table::
+
        :widths: 10 10 30 15 10
        :header-rows: 1
 
