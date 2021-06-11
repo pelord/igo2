@@ -1337,6 +1337,7 @@ Propriétés
 
 
 Exemple
+
       .. code:: json
 
             {
@@ -1907,10 +1908,10 @@ Propriétés de l'objet timeFilter
 Configuration filtre attributaire OGC (ogcFilters)
 ===================================================
 
-  Permet de définir la configuration des filtres attributaires(OGC) qui seront appliqués par l'utilisateur sur la couche.
-  Plusieurs configurations de filtre sont disponibles. Par exemple, il est possible de créer des boutons sur lesquels l'utilisateur
-  pourra appuyer pour filtrer la couche affichée, de réaliser des groupes de filtre, ou bien de donner la possibilité à l'utilisateur
-  de créer lui même ces propres filtres à l'aide des filtres avancés.
+    Permet de définir la configuration des filtres attributaires(OGC) qui seront appliqués par l'utilisateur sur la couche.
+    Plusieurs configurations de filtre sont disponibles. Par exemple, il est possible de créer des boutons sur lesquels l'utilisateur
+    pourra appuyer pour filtrer la couche affichée, de réaliser des groupes de filtre, ou bien de donner la possibilité à l'utilisateur
+    de créer lui même ces propres filtres à l'aide des filtres avancés.
 
     - **Limitation**: Disponible uniquement sur des couches de type WFS ou WMS produite par mapServer 7.2 et+ ou geoserver.
     - Les outils ogcFilter et/ou activeOgcFilter doivent être activés dans les outils ('tools'). (Voir :ref:`igoactiveogcFilter` et :ref:`igoogcFilter` dans la section outil )
