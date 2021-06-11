@@ -2606,7 +2606,7 @@ Configuration des attributs champs source de donnée (sourceFields)
 
 | Une liste de nom d'attribut, de leur alias, valeurs permises et autres configurations.
 | ** Nécessaire pour utilisation des filtres attributaires avancés. Ce sont ces configurations qui définiront ce qui sera présenté à
- l'utilisateur lors de l'utilisation des filtres avancés.
+l'utilisateur lors de l'utilisation des filtres avancés.
 
 Exemples
 
@@ -4177,21 +4177,21 @@ Liens
 activeOgcFilter
 ===============
 
-      Outil permettant de définir un ou plusieurs filtres sur **la couche active** de service OGC filtrable.
+    Outil permettant de définir un ou plusieurs filtres sur **la couche active** de service OGC filtrable.
 
-      Outil relatif à la couche active. Une fois activé dans "tools" l'outil sera disponible dans les outils de la couche
-      sélectionnée.
-      | ** Limitation: Disponible sur des couches de type WFS ou WMS produite par mapServer 7.2 et+ ou geoserver.
+    Outil relatif à la couche active. Une fois activé dans "tools" l'outil sera disponible dans les outils de la couche
+    sélectionnée.
+    | ** Limitation: Disponible sur des couches de type WFS ou WMS produite par mapServer 7.2 et+ ou geoserver.
 
-      Cet outil présente uniquement le ou les filtres qui sont applicables sur **la couche active**, comparativement à l'outil
-      ogcFilter, qui lui présentera toute les couches ayant un filtre configuré. Comme cet outil présente uniquement le filtre appliqué
-      sur une seule couche, la configuration classique est de ne pas présenter cet outil dans la barre verticale avec les autres outils
-      de l'application et de le laisser uniquement dans les outils de la couche active.
-      Pour ce faire, vous devez mettre l'outil dans "tools" et ne pas le mettre dans "toolbar"
+    Cet outil présente uniquement le ou les filtres qui sont applicables sur **la couche active**, comparativement à l'outil
+    ogcFilter, qui lui présentera toute les couches ayant un filtre configuré. Comme cet outil présente uniquement le filtre appliqué
+    sur une seule couche, la configuration classique est de ne pas présenter cet outil dans la barre verticale avec les autres outils
+    de l'application et de le laisser uniquement dans les outils de la couche active.
+    Pour ce faire, vous devez mettre l'outil dans "tools" et ne pas le mettre dans "toolbar"
 
-      | NB: L'activation se fait ici via les outils, mais la configuration du filtre doit se faire à l'intérieur de la couche dans les contextes.
-      | layer -> sourceOptions -> ogcFilters
-      | Référez-vous à: :ref:`Configuration des filtres attributaires OGC <igoOgcFilterObject>`  pour configurer les filtres au niveau des couches.
+    | NB: L'activation se fait ici via les outils, mais la configuration du filtre doit se faire à l'intérieur de la couche dans les contextes.
+    | layer -> sourceOptions -> ogcFilters
+    | Référez-vous à: :ref:`Configuration des filtres attributaires OGC <igoOgcFilterObject>`  pour configurer les filtres au niveau des couches.
 
 Exemples
 
