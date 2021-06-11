@@ -47,6 +47,7 @@ Exemples
 Propriétés de l'objet "view" de map
 
     .. list-table::
+
        :widths: 10 10 30 15 10
        :header-rows: 1
 
@@ -98,19 +99,15 @@ Propriétés de l'objet "view" de map
 Propriétés de l'objet "controls" de map
 
       .. list-table::
+
        :widths: 10 10 30 15 10
        :header-rows: 1
 
-       * - .. line-block::
-            Propriétés
-         - .. line-block::
-            Type
-         - .. line-block::
-            Description
-         - .. line-block::
-            Valeurs possibles
-         - .. line-block::
-            Valeur défaut
+       * - Propriétés
+         - Type
+         - Description
+         - Valeurs possibles
+         - Valeur défaut
        * - attribution
          - Boolean
          - Indique si la carte doit avoir des attributions pour tous ses contextes.
@@ -161,6 +158,7 @@ Exemples
 Propriétés
 
     .. list-table::
+
        :widths: 10 10 30 15 10
        :header-rows: 1
 
@@ -383,6 +381,7 @@ Exemples
 Propriétés
 
     .. list-table::
+
        :widths: 10 10 30 15 10
        :header-rows: 1
 
@@ -490,6 +489,7 @@ Exemples
 Propriétés
 
     .. list-table::
+
        :widths: 10 10 30 15 10
        :header-rows: 1
 
@@ -562,6 +562,7 @@ Exemples
 Propriétés de LinkedLayersOptions
 
     .. list-table::
+
        :widths: 10 10 30 15 10
        :header-rows: 1
 
@@ -601,6 +602,7 @@ Propriétés de LinkedLayersOptions
 Propriétés de LayersLinkProperties
 
     .. list-table::
+
        :widths: 10 10 30 15 10
        :header-rows: 1
 
@@ -689,6 +691,7 @@ Exemples
 Propriétés
 
     .. list-table::
+
        :widths: 10 10 30 15 10
        :header-rows: 1
 
@@ -856,6 +859,7 @@ Exemples
 Propriétés
 
     .. list-table::
+
        :widths: 10 10 30 15 10
        :header-rows: 1
 
@@ -903,6 +907,7 @@ Exemples
 Propriétés
 
     .. list-table::
+
        :widths: 10 10 30 15 10
        :header-rows: 1
 
@@ -974,6 +979,7 @@ Exemples
 Propriétés
 
     .. list-table::
+
        :widths: 10 10 30 15 10
        :header-rows: 1
 
@@ -1032,6 +1038,7 @@ Exemples
 Propriétés
 
     .. list-table::
+
        :widths: 10 10 30 15 10
        :header-rows: 1
 
@@ -1159,6 +1166,7 @@ Websocket
 Propriétés
 
     .. list-table::
+
        :widths: 10 10 30 15 10
        :header-rows: 1
 
@@ -1283,6 +1291,7 @@ Exemples
 Propriétés
 
     .. list-table::
+
        :widths: 10 10 30 15 10
        :header-rows: 1
 
@@ -1441,6 +1450,7 @@ Propriétés
 Paramètre (params) WMS
 
     .. list-table::
+
        :widths: 10 10 30 15 10
        :header-rows: 1
 
@@ -1562,6 +1572,7 @@ Exemples
 
 
     .. list-table::
+
        :widths: 10 10 30 15 10
        :header-rows: 1
 
@@ -1655,6 +1666,7 @@ Exemples
 Propriétés de l'objet timeFilter
 
     .. list-table::
+
        :widths: 10 10 30 15 10
        :header-rows: 1
 
@@ -2044,6 +2056,7 @@ Exemple - filtre avec boutons spécifique à un groupe et calendrier (filtrage t
 Propriétés de ogcFilters
 
     .. list-table::
+
        :widths: 10 10 30 15 10
        :header-rows: 1
 
@@ -2119,6 +2132,7 @@ Liens
 Propriétés de l'objet ogcFilter.{pushButtons/checkboxes/radioButtons}.selectorType
 
     .. list-table::
+
        :widths: 10 10 30 15 10
        :header-rows: 1
 
@@ -2143,6 +2157,7 @@ Propriétés de l'objet ogcFilter.{pushButtons/checkboxes/radioButtons}.selector
 Propriétés de l'objet ogcFilter.{pushButtons/checkboxes/radioButtons}.groups
 
     .. list-table::
+
        :widths: 10 10 30 15 10
        :header-rows: 1
 
@@ -2174,6 +2189,7 @@ Propriétés de l'objet ogcFilter.{pushButtons/checkboxes/radioButtons}.groups
 Propriétés de l'objet ogcFilter.{pushButtons/checkboxes/radioButtons}.bundles
 
     .. list-table::
+
        :widths: 10 10 30 15 10
        :header-rows: 1
 
@@ -2225,6 +2241,7 @@ Propriétés de l'objet ogcFilter.{pushButtons/checkboxes/radioButtons}.bundles
 Propriétés de l'objet ogcFilter.{selector}.bundles.selector
 
     .. list-table::
+
        :widths: 10 10 30 15 10
        :header-rows: 1
 
@@ -2272,6 +2289,7 @@ Propriétés de l'objet ogcFilter.{selector}.bundles.selector
 Propriétés de l'objet filters (IgoLogicalArrayOptions|AnyBaseOgcFilterOptions)
 
     .. list-table::
+
        :widths: 10 10 30 15 10
        :header-rows: 1
 
@@ -2318,6 +2336,7 @@ Propriétés de l'objet filters (IgoLogicalArrayOptions|AnyBaseOgcFilterOptions)
 Propriétés de l'objet filter de type **During**
 
     .. list-table::
+
        :widths: 10 10 30 15 10
        :header-rows: 1
 
@@ -2380,6 +2399,7 @@ Exemples
 Propriétés de l'objet sourceFields
 
     .. list-table::
+
        :widths: 10 10 30 15 10
        :header-rows: 1
 
@@ -2463,6 +2483,7 @@ Exemples
 Propriétés
 
     .. list-table::
+
        :widths: 10 10 30 15 10
        :header-rows: 1
 
@@ -2570,6 +2591,7 @@ Propriétés
     Seulement les propriétés spécifiques à ce service sont présentées.
 
     .. list-table::
+
        :widths: 10 30 60
        :header-rows: 1
 
@@ -2627,6 +2649,7 @@ Propriétés
     Seulement les propriétés spécifiques à ce service sont présentées.
 
     .. list-table::
+
        :widths: 10 80
        :header-rows: 1
 
@@ -2685,6 +2708,7 @@ Propriétés
     Seulement les propriétés spécifiques à ce service sont présentées.
 
     .. list-table::
+
        :widths: 10 80
        :header-rows: 1
 
@@ -2744,6 +2768,7 @@ Propriétés
     Seulement les propriétés spécifiques à ce service sont présentées.
 
     .. list-table::
+
        :widths: 10 80
        :header-rows: 1
 
@@ -2804,6 +2829,7 @@ Propriétés
     Seulement les propriétés spécifiques à ce service sont présentées.
 
     .. list-table::
+
        :widths: 10 80
        :header-rows: 1
 
@@ -2866,6 +2892,7 @@ Propriétés
     Seulement les propriétés spécifiques à ce service sont présentées.
 
     .. list-table::
+
        :widths: 10 80
        :header-rows: 1
 
@@ -2969,6 +2996,7 @@ Propriétés
 Seulement les propriétés spécifiques à ce service sont présentées.
       
           .. list-table::
+
              :widths: 10 50 10
              :header-rows: 1
       
@@ -3069,6 +3097,7 @@ Propriétés
     Seulement les propriétés spécifiques à ce service sont présentées.
 
     .. list-table::
+
        :widths: 10 60 10
        :header-rows: 1
 
@@ -3182,6 +3211,7 @@ Exemples
 Propriétés
 
     .. list-table::
+
        :widths: 10 10 30 15 10
        :header-rows: 1
 
@@ -3225,6 +3255,7 @@ Propriétés
 Options
 
      .. list-table::
+
        :widths: 10 10 30 15 10
        :header-rows: 1
 
@@ -3287,6 +3318,7 @@ Exemples
 Propriétés
 
     .. list-table::
+
        :widths: 10 10 30 15 10
        :header-rows: 1
 
@@ -3330,6 +3362,7 @@ Propriétés
 Options
 
      .. list-table::
+
        :widths: 10 10 30 15 10
        :header-rows: 1
 
@@ -3394,6 +3427,7 @@ Exemples
 Propriétés
 
     .. list-table::
+
        :widths: 10 10 30 15 10
        :header-rows: 1
 
@@ -3437,6 +3471,7 @@ Propriétés
 Options
 
      .. list-table::
+
        :widths: 10 10 30 15 10
        :header-rows: 1
 
@@ -3497,6 +3532,7 @@ Exemples
 Propriétés
 
     .. list-table::
+
        :widths: 10 10 30 15 10
        :header-rows: 1
 
@@ -3540,6 +3576,7 @@ Propriétés
 Options
 
      .. list-table::
+
        :widths: 10 10 30 15 10
        :header-rows: 1
 
@@ -3591,6 +3628,7 @@ Exemples
 Propriétés
 
     .. list-table::
+
        :widths: 10 10 30 15 10
        :header-rows: 1
 
@@ -3649,6 +3687,7 @@ Exemples
 Propriétés
 
     .. list-table::
+
        :widths: 10 10 30 15 10
        :header-rows: 1
 
@@ -3724,6 +3763,7 @@ Exemples
 Propriétés
 
     .. list-table::
+
        :widths: 10 10 30 15 10
        :header-rows: 1
 
@@ -3826,6 +3866,7 @@ Exemples
 Propriétés
 
     .. list-table::
+
        :widths: 10 10 30 15 10
        :header-rows: 1
 
@@ -3948,6 +3989,7 @@ Exemples
 Propriétés
 
     .. list-table::
+
        :widths: 10 10 30 15 10
        :header-rows: 1
 
@@ -3991,6 +4033,7 @@ Propriétés
 Options
 
      .. list-table::
+
        :widths: 10 10 30 15 10
        :header-rows: 1
 
@@ -4117,6 +4160,7 @@ Exemples
 Propriétés
 
     .. list-table::
+
        :widths: 10 10 30 15 10
        :header-rows: 1
 
@@ -4160,6 +4204,7 @@ Propriétés
 Options
 
      .. list-table::
+
        :widths: 10 10 30 15 10
        :header-rows: 1
 
@@ -4290,6 +4335,7 @@ Exemples
 Propriétés
 
     .. list-table::
+
        :widths: 10 10 30 15 10
        :header-rows: 1
 
@@ -4333,6 +4379,7 @@ Propriétés
 Options
 
      .. list-table::
+
        :widths: 10 10 30 15 10
        :header-rows: 1
 
@@ -4446,6 +4493,7 @@ Exemples
 Propriétés
 
     .. list-table::
+
        :widths: 10 10 30 15 10
        :header-rows: 1
 
@@ -4489,6 +4537,7 @@ Propriétés
 Options
 
      .. list-table::
+
        :widths: 10 10 30 15 10
        :header-rows: 1
 
@@ -4646,6 +4695,7 @@ Exemples
 Propriétés
 
     .. list-table::
+
        :widths: 10 10 30 15 10
        :header-rows: 1
 
@@ -4689,6 +4739,7 @@ Propriétés
 Options
 
      .. list-table::
+
        :widths: 10 10 30 15 10
        :header-rows: 1
 
@@ -4840,6 +4891,7 @@ Exemples
 Propriétés
 
     .. list-table::
+
        :widths: 10 10 30 15 10
        :header-rows: 1
 
@@ -4903,6 +4955,7 @@ Exemples
 Propriétés
 
     .. list-table::
+
        :widths: 10 10 30 15 10
        :header-rows: 1
 
@@ -4965,6 +5018,7 @@ Exemples
 Propriétés
 
     .. list-table::
+
        :widths: 10 10 30 15 10
        :header-rows: 1
 
@@ -5008,6 +5062,7 @@ Propriétés
 Options
 
      .. list-table::
+
        :widths: 10 10 30 15 10
        :header-rows: 1
 
@@ -5060,6 +5115,7 @@ Exemples
 Propriétés
 
     .. list-table::
+
        :widths: 10 10 30 15 10
        :header-rows: 1
 
@@ -5103,6 +5159,7 @@ Propriétés
 Options
 
      .. list-table::
+
        :widths: 10 10 30 15 10
        :header-rows: 1
 
@@ -5165,6 +5222,7 @@ Exemples
 Propriétés
 
     .. list-table::
+
        :widths: 10 10 30 15 10
        :header-rows: 1
 
