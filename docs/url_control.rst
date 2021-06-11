@@ -77,8 +77,6 @@ Sélection du contexte
                     } 
             }
 
-    
-
     Params :
         - visiblelayers= (liste de id, séparés par une virgule OU * (tous) )
         - invisiblelayers= (liste de id, séparés par une virgule OU * (tous) )
