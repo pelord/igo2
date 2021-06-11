@@ -1306,9 +1306,9 @@ Liens
 optionsApi
 ************
 
-  Permet de définir le chemin vers API pour les options supplémentaires sur les couches ajoutées par la recherche.
-  Par exemple, les configurations de filtre. Retourne un objet JSON venant se fusionner avec les propriété de la couche.
-  La configuration faite au pilotage a priorité à celles fournies par l'API d'options.
+    Permet de définir le chemin vers API pour les options supplémentaires sur les couches ajoutées par la recherche.
+    Par exemple, les configurations de filtre. Retourne un objet JSON venant se fusionner avec les propriété de la couche.
+    La configuration faite au pilotage a priorité à celles fournies par l'API d'options.
 
 Exemple
 
@@ -1333,6 +1333,7 @@ overlayStyle
 Exemple
 
         .. code:: json
+
               "queryOverlayStyle": {},
               "searchOverlayStyle": {
                   "base": {

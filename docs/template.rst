@@ -54,6 +54,7 @@ Exemples
 Propriétés
 
     .. list-table::
+
        :widths: 10 10 30 15 10
        :header-rows: 1
     

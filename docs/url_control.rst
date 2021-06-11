@@ -38,7 +38,7 @@ Sélection du contexte
         - https://infra-geo-ouverte.github.io/igo2/?context=simple2
 
 *******************************
- Zoom
+Zoom
 *******************************
 
     Params :
@@ -48,7 +48,7 @@ Sélection du contexte
         - https://infra-geo-ouverte.github.io/igo2/?zoom=10
 
 *******************************
- Centre de la carte
+Centre de la carte
 *******************************
 
     Params :
@@ -58,7 +58,7 @@ Sélection du contexte
         - https://infra-geo-ouverte.github.io/igo2/?center=-70.70426615422834,57.62669012416586
 
 *******************************
- Visibilité des couches
+Visibilité des couches
 *******************************
 
     Basé sur les identifiant du layer. L'id peut être configuré 
@@ -84,7 +84,7 @@ Sélection du contexte
         - https://infra-geo-ouverte.github.io/igo2/?invisiblelayers=*&visiblelayers=6143562e58898a852eeb658ba493e8e7,carte_gouv_qc
 
 ********************************
- Outil actif lors de l'ouverture
+Outil actif lors de l'ouverture
 ********************************
 
     Params :
@@ -107,7 +107,7 @@ Sélection du contexte
         - https://infra-geo-ouverte.github.io/igo2/?tool=searchResults
 
 ********************************
- Recherche
+Recherche
 ********************************
 
     Params :
@@ -140,7 +140,7 @@ Sélection du contexte
         - https://infra-geo-ouverte.github.io/igo2/?search=915%23adresse&searchGeom=1
 
 ********************************
- Itinéraire
+Itinéraire
 ********************************
 
     Params :

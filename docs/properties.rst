@@ -3326,7 +3326,6 @@ Seulement les propriétés spécifiques à ce service sont présentées.
 
                      Nom de la requête à demander au serveur.
                -
-      
 
 
 Important : Les propriétés en caractère gras suivies d'un * sont obligatoires.
