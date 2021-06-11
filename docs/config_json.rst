@@ -6,7 +6,6 @@
    :DC.language: fr
 
 .. csv-table:: Lorem Ipsum
-
    :file: _tables/lorem-tab.csv
    :header-rows: 1
    :class: longtable
