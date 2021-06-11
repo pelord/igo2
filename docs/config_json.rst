@@ -56,7 +56,6 @@ Résumé
 
 
     .. list-table::
-
        :widths: 10 10 30 15
        :header-rows: 1
 
