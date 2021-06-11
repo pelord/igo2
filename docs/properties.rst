@@ -389,7 +389,6 @@ Liens
     - `igo2-lib/packages/geo/src/lib/layer/shared/layers/layer.interface.ts <https://github.com/infra-geo-ouverte/igo2-lib/blob/master/packages/geo/src/lib/layer/shared/layers/layer.interface.ts>`__
 
 
-
 LegendOptions
 ===============
 
@@ -512,7 +511,6 @@ SourceOptions
         - `WFS`_
         - `WMS`_
         - `WMTS`_
-
 
 
 WorkspaceOptions
@@ -734,7 +732,6 @@ Liens
 
     - `igo2-lib/packages/geo/src/lib/layer/shared/layers/layer.interface.ts <https://github.com/infra-geo-ouverte/igo2-lib/blob/master/packages/geo/src/lib/layer/shared/layers/layer.interface.ts>`__
     - `Exemples <https://github.com/infra-geo-ouverte/igo2/blob/master/src/contexts/layerSync.json>`__
-
 
 
 ********************************
@@ -1060,7 +1057,6 @@ Propriétés
 Liens
 
     - `igo2-lib/blob/master/packages/geo/src/lib/datasource/shared/datasources/cluster-datasource.interface.ts <https://github.com/infra-geo-ouverte/igo2-lib/blob/master/packages/geo/src/lib/datasource/shared/datasources/cluster-datasource.interface.ts>`__
-
 
 
 TMS (xyz)
@@ -1808,7 +1804,6 @@ Exemples
 Liens
 
     - `OGC WMTS <https://www.opengeospatial.org/standards/wmts>`__
-
 
 
 ************************************
@@ -3262,7 +3257,6 @@ Exemple 2
           }
 
 
-
 Propriétés
 
 
@@ -3437,9 +3431,6 @@ Liens
     - `Décrire la requête "lim_adm" <https://ws.mapserver.transports.gouv.qc.ca/swtq?service=wfs&version=2.0.0&request=DescribeStoredQueries&storedQuery_Id=lim_adm>`__
 
 
-
-
-
 ==============================
 Intégration
 ==============================
@@ -3448,7 +3439,6 @@ Intégration
 
         La composante intégration permet de définir une gamme d'outils aisément intégrables à l'application grâce
         aux configuration d'outils (tools).
-
 
 
 *******************************
@@ -3721,7 +3711,6 @@ Liens
     - :ref:`Configuration des catalogue <igocatalogConfig>`.
 
 
-
 .. _igocatalogBrowser:
 
 
@@ -3953,7 +3942,6 @@ Liens
     - `catalog-browser-tool <https://github.com/infra-geo-ouverte/igo2-lib/tree/master/packages/integration/src/lib/catalog/catalog-browser-tool>`__
 
 
-
 .. _igodirections:
 
 
@@ -4174,7 +4162,6 @@ Liens
     - `OGC FES <https://www.ogc.org/standards/filter>`__
 
 
-
 .. _igoactiveogcFilter:
 
 activeOgcFilter
@@ -4310,7 +4297,6 @@ Exemples
 Liens
 
     - `active-time-filter-tool <https://github.com/infra-geo-ouverte/igo2-lib/tree/master/packages/integration/src/lib/filter/active-time-filter-tool>`__
-
 
 
 .. _igoimportExport:

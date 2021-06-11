@@ -13,7 +13,6 @@ Ouverture du panneau latéral
         - https://infra-geo-ouverte.github.io/igo2/?sidenav=1
 
 
-
 *******************************
 Ajout de couches
 *******************************

@@ -1135,7 +1135,6 @@ Liens
 .. _igolanguage:
 
 
-
 ***************
 interactiveTour
 ***************
@@ -1262,7 +1261,6 @@ Liens
         - `locale démo https://infra-geo-ouverte.github.io/igo2/  <https://github.com/infra-geo-ouverte/igo2/tree/gh-pages/locale>`_
 
 
-
 ***************
 MapOverlay
 ***************
@@ -1327,10 +1325,10 @@ Exemple
 overlayStyle
 ************
 
-  Permet de définir le style des éléments ajoutés à la carte (overlay), suite a une interrogation par clic ou par une recherche.
-  Les objets sélection et focus sont facultatifs. Les propriétés contenues par ces objets sont également facultatives. 
-  Si les objects sont vide ou absent, le style par défaut sera appliqué (bleu et turquoise). 
-  Les couleurs acceptées peuvent être en couleur HEX, en liste RGB ou en couleur nommée.
+    Permet de définir le style des éléments ajoutés à la carte (overlay), suite a une interrogation par clic ou par une recherche.
+    Les objets sélection et focus sont facultatifs. Les propriétés contenues par ces objets sont également facultatives. 
+    Si les objects sont vide ou absent, le style par défaut sera appliqué (bleu et turquoise). 
+    Les couleurs acceptées peuvent être en couleur HEX, en liste RGB ou en couleur nommée.
 
 Exemple
 
@@ -1581,8 +1579,6 @@ Propriétés
 Liens
 
         - `igo2-lib/packages/core/src/style/themes <https://github.com/infra-geo-ouverte/igo2-lib/tree/master/packages/core/src/style/themes>`_
-
-
 
 
 ***************
@@ -1895,8 +1891,6 @@ Exemple complet config.json
                 }
 
 
-
-
 =======================================
 Contenu cartographique
 =======================================
@@ -1941,7 +1935,6 @@ en sera facilitée.
 Le contexte _default, sera le contexte affiché à l'arrivée dans l'application.
 
 Important : Notez que le fichier nom_du_contexte.json a préséance sur le fichier _base.json.
-
 
 
 ***************************
@@ -2124,7 +2117,6 @@ Liens
         - :ref:`Layer IGO2 <igolayer>`.
 
 
-
 ***************
 Map
 ***************
@@ -2291,7 +2283,6 @@ Propriétés
     Important : Les propriétés en caractère gras suivis d'un * sont obligatoires.
 
 
-
 ***************
 Title
 ***************
@@ -2445,15 +2436,12 @@ Propriétés
                l'outil désiré.
 
 
-
     Important : Les propriétés en caractère gras suivies d'un * sont obligatoires.
 
 
 Liens
 
         - `igo2-lib/tree/master/packages/integration/src/lib/... <https://github.com/infra-geo-ouverte/igo2-lib/tree/master/packages/integration/src/lib>`_
-
-
 
 
 ***************
