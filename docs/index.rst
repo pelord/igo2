@@ -41,4 +41,5 @@ Dernière mise à jour de la documentation : |date| (|time| UTC)
    shortcut
 
 .. note::
+
    Cette documentation est en construction.

@@ -816,6 +816,7 @@ ArcGis
 ===============
 
     .. note::
+
        Disponible actuellement mais la documentation est en cours de construction.
        Problématique observée pour les styles complexe. Même QGIS ne rends pas correctement les styles complexe.
        https://github.com/infra-geo-ouverte/igo2-lib/issues/810
@@ -842,6 +843,7 @@ Image ArcGis
 ===============
 
     .. note::
+
        Disponible actuellement mais la documentation est en cours de construction.
        C'est la version qui effectue un seul appel pour toute l'étendu de la carte.
 
@@ -867,6 +869,7 @@ Tile ArcGis
 ===============
 
     .. note::
+
        Disponible actuellement mais la documentation est en cours de construction.
        C'est la version qui effectue plusieurs appels pour l'étendue de la carte.
        Peut être conflictuel pour les étiquettes qui seront dupliqués pour chacune des tuiles.
@@ -893,6 +896,7 @@ Carto
 ===============
 
     .. note::
+
        Disponible actuellement mais la documentation est en cours de construction.
 
 
@@ -981,6 +985,7 @@ Cluster
 ===============
 
     .. note::
+
        Une source de données pour les données vectorielle composées de points. Elle génere des regroupements d'entité lorsque ceux-ci se retrouve près l'une de l'autre.
 
 Exemples
@@ -1361,6 +1366,7 @@ WFS
 ===============
 
     .. note::
+
        Disponible actuellement mais la documentation est en cours de construction.
 
 Exemples
@@ -1393,6 +1399,7 @@ WMS
 
 
     .. note::
+
         En cours de construction.
 
 Exemples
@@ -3131,6 +3138,7 @@ Nominatim
             - `API Nominatim <https://nominatim.org/release-docs/develop/>`__
 
     .. note::
+
         Bien que la recherche par coordonnées soit disponible par Nominatim,
         IGO2 ne gère pas les appels par coordonnées vers Nominatim.
 
@@ -3184,6 +3192,7 @@ StoredQueries
 ================
 
     .. note::
+
         Il se veut plus des EXEMPLES qu'un réel service de recherche.
 
     .. line-block::
@@ -3333,6 +3342,7 @@ StoredQueries Reverse
 =====================
 
     .. note::
+
         Il se veut plus un EXEMPLE qu'un réel service de recherche.
 
     .. line-block::
@@ -4521,6 +4531,7 @@ mapTool
             - Gestionnaire de contexte :  Outil permettant de lister/gérer/changer de contexte à l'intérieur d'une même application.
 
 .. note::
+
    Si vous voulez pouvoir filtrer des données WMS/WFS temporellement et par attributs, activez les outils
        - `activeOgcFilter`_
        - `activeTimeFilter`_
@@ -4913,6 +4924,7 @@ mapDetails
                             - supression de couches
 
 .. note::
+
    Si vous voulez pouvoir filtrer des données WMS/WFS temporellement et par attributs, activez les outils
        - `activeOgcFilter`_
        - `activeTimeFilter`_
@@ -5148,6 +5160,7 @@ mapTools
             - Légende : Légendes de la carte
 
 .. note::
+
    Si vous voulez pouvoir filtrer des données WMS/WFS temporellement et par attributs, activez les outils
        - activeOgcFilter
        - activeTimeFilter

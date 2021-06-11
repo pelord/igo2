@@ -18,4 +18,5 @@ Sommaire
 Plus d'information disponible à : https://www.igouverte.org/documentation/.
 
 .. note::
+
    Cette documentation est en construction.

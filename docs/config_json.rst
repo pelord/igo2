@@ -295,6 +295,7 @@ Auth
 ***************
 
     .. note::
+
        En cours de construction
 
     .. line-block::
@@ -840,6 +841,7 @@ Context
 ***************
 
     .. note::
+
        En cours de construction
 
     .. line-block::
@@ -906,6 +908,7 @@ Depot
 ***************
 
 .. note::
+
       En cours de construction
 
 .. line-block::
@@ -1514,6 +1517,7 @@ SearchSources
 ***************
 
     .. note::
+
        En cours de construction
 
 
