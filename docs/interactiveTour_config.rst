@@ -17,7 +17,6 @@ un message de description de cet élément. Le pilote peut ainsi configurer plus
 En plus de sélectionner des éléments à mettre en surbrillance, le pilote peut aussi configurer certaines actions lors du tour.
 
 
-
 Configurer les tours
 ---------------------
 
@@ -58,55 +57,57 @@ Propriétés - Objet InteractiveTourOptions
        :widths: 10 10 30 15 10
        :header-rows: 1
 
-       * - .. line-block::
-               Propriétés
-         - .. line-block::
-               Type
-         - .. line-block::
-               Description
-         - .. line-block::
-               Valeurs possibles
-         - .. line-block::
-               Valeur défaut
+       * - Propriétés
+         - Type
+         - Description
+         - Valeurs possibles
+         - Valeur défaut
        * - disableInteraction
          - Boolean
          - .. line-block::
+
               Permet ou non à l'utilisateur de cliquer sur les éléments en surbrillance
          - true | false
          - true
        * - highlightClass
          - Boolean
          - .. line-block::
+
                 Définit la classe à appliquer aux éléments en surbrillance
          -
          -
        * - position
          - String
          - .. line-block::
+
                Définit la position des boites aide
          - 'auto', 'right', 'left', 'bottom', 'top'. NB.: Si la propriété position n'est pas présente, les boites seront disposées au centre de l'écran.
          -
        * - scrollToElement
          - Boolean
          - .. line-block::
+
                Indique si on défile la page sur l'élément en surbrillance
          - true | false
          -
        * - steps
          - :ref:`InteractiveTourStep <igoInteractiveTourStep>`
          - .. line-block::
+
                Une liste de step
          -
          -
        * - conditions
          - String
          - .. line-block::
+
                Les éléments HTML qui doivent être présents pour activer le bouton du tour
          -
          -
        * - title
          - String
          - .. line-block::
+
                Le titre de toutes les boites aide
          - ...
          - ...
@@ -134,15 +135,12 @@ mis en surbrillance sinon votre tour pourrait avoir certains problèmes et/ou vo
 soit visible.
 
 
-
 Steps, autres propriétés
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 En plus des 2 propriétés essentielles à chaque step, il est possible d'en ajouter d'autre comme "title" ou "position" pour mettre un titre
 à la boite d'aide et indiquer la position de la boite. Il est aussi possible de ne pas permettre les clics par l'utilisateur dans ce step à
 l'aide de "disableInteraction": true ou de ne pas mettre le bouton précédent dans un step particulier à l'aide de la propriété "noBackButton".
-
-
 
 
 Steps, actions et déclenchements
@@ -255,69 +253,74 @@ Propriétés - Objet InteractiveTourStep
        :widths: 10 10 30 15 10
        :header-rows: 1
 
-       * - .. line-block::
-               Propriétés
-         - .. line-block::
-               Type
-         - .. line-block::
-               Description
-         - .. line-block::
-               Valeurs possibles
-         - .. line-block::
-               Valeur défaut
+       * - Propriétés
+         - Type
+         - Description
+         - Valeurs possibles
+         - Valeur défaut
        * - beforeChange
          - InteractiveTourAction
          - .. line-block::
+
                Déclenchement avant le changement de boite. Attends avant de passer à l'étape suivante (en combinaison de waitFor qui prend du css)
          -
          -
        * - beforeShow
          - InteractiveTourAction
          - .. line-block::
+
                Déclenchement avant l'apparition de la boite. Attends avant d'ouvrir l'étape (en combinaison de waitFor qui prend du css)
          -
          -
        * - disableInteraction
          - Boolean
          - .. line-block::
+
               Permet ou non à l'utilisateur de cliquer sur l'éléments du step en surbrillance
          - true | false
          - true
        * - element
          - string
          - .. line-block::
+
                 Elément HTML à mettre en surbrillance. NB.: doit être visible lors du déclanchement
          -
          -
        * - highlightClass
          - Boolean
          - .. line-block::
+
                 Définit la classe à appliquer aux éléments en surbrillance
          -
          -
        * - noBackButton
          - Boolean
          - .. line-block::
+
                 Définit si le step aura un bouton précédent
          -
          -
        * - onHide
          - InteractiveTourAction
          - .. line-block::
+
                 Déclenchement lorsque la boite disparait
          -
          -
        * - onShow
          - InteractiveTourAction
          - .. line-block::
+
                 Déclenchement lors de l'apparition de la boite
          -
          -
        * - position
          - String
          - .. line-block::
+
                Définit la position des boites aide
          - .. line-block::
+
               'auto', 'right', 'left', 'bottom', 'top'.
               NB.: Si la propriété position n'est pas présente,
               les boites seront disposées au centre de l'écran
@@ -325,12 +328,14 @@ Propriétés - Objet InteractiveTourStep
        * - scrollToElement
          - Boolean
          - .. line-block::
+
                Indique si on défile la page sur l'élément en surbrillance
          - true | false
          -
        * - text
          - String
          - .. line-block::
+
                Le texte inscrit dans la boite d'aide. On peut y mettre du html. NB.: voir traduction
          -
          -
