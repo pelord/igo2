@@ -5,6 +5,8 @@
    :DC.creator: Gouvernement du Québec
    :DC.language: fr
 
+.. tabularcolumns:: |p{1cm}|p{7cm}|
+
 .. csv-table:: Lorem Ipsum
    :file: _tables/lorem-tab.csv
    :header-rows: 1
