@@ -1,6 +1,7 @@
 .. include:: global.rst
 
 .. meta::
+
    :DC.creator: Gouvernement du Québec
    :DC.language: fr
 
