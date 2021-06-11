@@ -1,4 +1,5 @@
 rules:
+    #american_english: ~
     avoid_repetetive_words: ~
     blank_line_after_anchor: ~
     blank_line_after_directive: ~
@@ -39,7 +40,7 @@ rules:
     space_between_label_and_link_in_doc: ~
     space_between_label_and_link_in_ref: ~
     string_replacement: ~
-    typo: ~
+    #typo: ~
     unused_links: ~
     use_deprecated_directive_instead_of_versionadded: ~
     use_https_xsd_urls: ~
