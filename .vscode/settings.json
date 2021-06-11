@@ -1,0 +1,7 @@
+{
+    "restructuredtext.linter.disabled": false,
+    "restructuredtext.preview.sphinx.disabled": false,
+    "restructuredtext.confPath": "${workspaceFolder}\\docs",
+    "restructuredtext.languageServer.disabled": true,
+    "python.pythonPath": "C:\\OSGeo4W64\\bin\\python-qgis-ltr.bat"
+}
