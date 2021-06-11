@@ -107,6 +107,7 @@ Propriétés de l'objet "view" de map
        * - maxLayerZoomExtent
          - Array []
          - .. line-block::
+
                   Indique l'étendue maximale considérée comme étant valide pour un cadrage
                   lors du calcul de l'étendue d'une ou plusieurs couches. Les coordonnées
                   minimales et maximales doivent être compatibles avec la projection donnée.
