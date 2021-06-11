@@ -40,6 +40,7 @@ hasExpansionPanel
        En cours de construction
 
     .. line-block::
+
         Voici ma desc
 
 Exemples
@@ -56,18 +57,24 @@ Propriétés
        :header-rows: 1
     
        * - .. line-block::
+
                Propriétés
          - .. line-block::
+
                Type
          - .. line-block::
+
                Description
          - .. line-block::
+
                Valeurs possibles
          - .. line-block::
+
                Valeur défaut
        * - 
          - 
          - .. line-block::
+
                Desc
          - enum?
          - val
