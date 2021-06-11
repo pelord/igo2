@@ -276,18 +276,18 @@ Analytics
 
     .. line-block::
 
-	  Sert à configurer une application pour effectuer le monitoring du site web pour les statistiques.
-	  NB. : Pour une application sans statistiques, simplement ne pas mettre ces configurations.
+      Sert à configurer une application pour effectuer le monitoring du site web pour les statistiques.
+      NB. : Pour une application sans statistiques, simplement ne pas mettre ces configurations.
 
 Exemples
 
-	.. code:: json
+    .. code:: json
 
-		"analytics": {
-			"provider": "matomo",
-			"url": "https://geoegl.msp.gouv.qc.ca/matomo/",
-			"id": "40"
-		}
+        "analytics": {
+            "provider": "matomo",
+            "url": "https://geoegl.msp.gouv.qc.ca/matomo/",
+            "id": "40"
+        }
 
 
 ***************
