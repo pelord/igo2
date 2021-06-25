@@ -2,8 +2,8 @@
   "map": {
     "view": {
       "projection": "EPSG:3857",
-      "center": [-71.938087, 48.446975],
-      "zoom": 6,
+      "center": [-72.08662,47.04907],
+      "zoom": 14,
       "maxZoom": 19,
       "maxZoomOnExtent": 17
     }
@@ -15,6 +15,18 @@
       "visible": false,
       "baseLayer": true,
       "sourceOptions": {
+        "type": "osm",
+        "maxZoom": 19,
+        "attributions": "© les contributeurs <a href='https://www.openstreetmap.org/copyright' target='_blank'>d’OpenStreetMap</a> / <a href='https://www.igouverte.org/' target='_blank'>IGO2</a>"
+      }
+    },
+    {
+      "id": "fond_osm_hot",
+      "title": "Open Street Map - Humanitaire",
+      "visible": false,
+      "baseLayer": true,
+      "sourceOptions": {
+        "url": "https://a.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png",
         "type": "osm",
         "maxZoom": 19,
         "attributions": "© les contributeurs <a href='https://www.openstreetmap.org/copyright' target='_blank'>d’OpenStreetMap</a> / <a href='https://www.igouverte.org/' target='_blank'>IGO2</a>"
@@ -160,6 +172,7 @@
     "importExport",
     "print",
     "shareMap",
+    "download",
     "about"
   ],
   "tools": [
@@ -171,6 +184,9 @@
     },
     {
       "name": "about"
+    },
+    {
+      "name": "download"
     },
     {
       "name": "mapTools",
