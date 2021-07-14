@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1624644169301,
+  "timestamp": 1626276239067,
   "index": "/igo2/index.html",
   "assetGroups": [
     {
@@ -29,16 +29,16 @@
         "/igo2/index.html",
         "/igo2/locale/en.json",
         "/igo2/locale/fr.json",
-        "/igo2/main-es2015.7b69b5606c32d686ca3e.js",
-        "/igo2/main-es5.7b69b5606c32d686ca3e.js",
+        "/igo2/main-es2015.63162ad2ef636df1b0b5.js",
+        "/igo2/main-es5.63162ad2ef636df1b0b5.js",
         "/igo2/manifest.webmanifest",
         "/igo2/polyfills-es2015.bc9b9ffcfe3caa442389.js",
         "/igo2/polyfills-es5.1230b26e2a649a5a090c.js",
         "/igo2/runtime-es2015.af1b92d1c4f31acf1ae5.js",
         "/igo2/runtime-es5.af1b92d1c4f31acf1ae5.js",
-        "/igo2/styles.e578cc3b14cf3ee228f7.css",
-        "/igo2/vendor-es2015.e94a12a09748e29a1e63.js",
-        "/igo2/vendor-es5.e94a12a09748e29a1e63.js"
+        "/igo2/styles.a73143599ed5c7b2b558.css",
+        "/igo2/vendor-es2015.00fc392a1f31bd4f7e8c.js",
+        "/igo2/vendor-es5.00fc392a1f31bd4f7e8c.js"
       ],
       "patterns": []
     },
@@ -96,7 +96,7 @@
     "/igo2/assets/images/loading.gif": "2d3a0a80465c4932c49b8187723073b41d6f238e",
     "/igo2/config/config.json": "af5c2511fa8620f50856e255e4276b8016f12cb2",
     "/igo2/config/interactiveTour.json": "a077746c376a958a9217c7907457ebb47022aa79",
-    "/igo2/contexts/_base.json": "362d9b922bb7eca4d407eaea17cd0899d2e6b273",
+    "/igo2/contexts/_base.json": "2b25599b07b25adaf35bb9243a084fa5d67ff65e",
     "/igo2/contexts/_contexts.json": "b88b5ea66a4d17a00eb0de998d9e3f2a7aa5401b",
     "/igo2/contexts/_default.json": "11e88f5d2d4e54c1608521ff2aefb1bebf7dbd03",
     "/igo2/contexts/layerSync.json": "5862b76fc39df42d09341397e7692bf548585cd7",
@@ -109,19 +109,19 @@
     "/igo2/contexts/variousFormats.json": "6ffc824c9129efa6a630ca471d4b04466d2d674d",
     "/igo2/contexts/workspace.json": "d9c76742d78a0469a855fea2aebd8ed44dcb4e5a",
     "/igo2/favicon.ico": "1c2dd41874171f145418d08ee122dc4812791e17",
-    "/igo2/index.html": "55b477f40ccd22862a8b14a0418183f16aac993c",
+    "/igo2/index.html": "28b4dae553190dd51e2d6f28ede1b91af17ecb97",
     "/igo2/locale/en.json": "87042201702408d00f9bac191c9ed1ff9eb137f8",
     "/igo2/locale/fr.json": "0a94b615c144e92fba9b7660bafa6eeafdfd0564",
-    "/igo2/main-es2015.7b69b5606c32d686ca3e.js": "196d38e70842b9d435cc6c17fa56ce35b469a1e0",
-    "/igo2/main-es5.7b69b5606c32d686ca3e.js": "eab515aecf7bc0969b7b99464acf04bb7381e824",
+    "/igo2/main-es2015.63162ad2ef636df1b0b5.js": "d118fbe82308594db788048567d63f8f70f96f72",
+    "/igo2/main-es5.63162ad2ef636df1b0b5.js": "44ce1cbc7549d58e332a2156c5328854047f822b",
     "/igo2/manifest.webmanifest": "fb0d9f7724a52ea63394fd98522d76f43a05762c",
     "/igo2/polyfills-es2015.bc9b9ffcfe3caa442389.js": "1f4939cbd874ab3e4e03db4facfd44fb501a1ff0",
     "/igo2/polyfills-es5.1230b26e2a649a5a090c.js": "3ace1e08cc8155f54e47942e9ec26ccb35e99bdc",
     "/igo2/runtime-es2015.af1b92d1c4f31acf1ae5.js": "5cbeb61914d0a24983ab73b56cc50f68b89d22cb",
     "/igo2/runtime-es5.af1b92d1c4f31acf1ae5.js": "6a8edbf1ea8fac05ce945a9cfe9577ae5d86df5d",
-    "/igo2/styles.e578cc3b14cf3ee228f7.css": "6494114e5b6074938aa69224fabfafb04c681cfc",
-    "/igo2/vendor-es2015.e94a12a09748e29a1e63.js": "c20910dd6b7e0246371f109429c8ef2a35a2ff85",
-    "/igo2/vendor-es5.e94a12a09748e29a1e63.js": "6c78c8ee99c3376fe4ab283df5f37ee26bfc3f87"
+    "/igo2/styles.a73143599ed5c7b2b558.css": "a8b378ef81f993f04fd7314b78cd837d9cf91983",
+    "/igo2/vendor-es2015.00fc392a1f31bd4f7e8c.js": "54a7d6edb3fc23645ecfe058c5e1f027710fdb9b",
+    "/igo2/vendor-es5.00fc392a1f31bd4f7e8c.js": "bbb53a2d6fb03b71c7c143ae749c2deaeb734459"
   },
   "navigationUrls": [
     {
