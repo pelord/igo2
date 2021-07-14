@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1626290666308,
+  "timestamp": 1626291534182,
   "index": "https://pelord.github.io/igo2/index.html",
   "assetGroups": [
     {
@@ -37,8 +37,8 @@
         "https://pelord.github.io/igo2/runtime-es2015.af1b92d1c4f31acf1ae5.js",
         "https://pelord.github.io/igo2/runtime-es5.af1b92d1c4f31acf1ae5.js",
         "https://pelord.github.io/igo2/styles.a73143599ed5c7b2b558.css",
-        "https://pelord.github.io/igo2/vendor-es2015.31dedeb756d2f230ccde.js",
-        "https://pelord.github.io/igo2/vendor-es5.31dedeb756d2f230ccde.js"
+        "https://pelord.github.io/igo2/vendor-es2015.2fef919f3f3f0ac42f19.js",
+        "https://pelord.github.io/igo2/vendor-es5.2fef919f3f3f0ac42f19.js"
       ],
       "patterns": []
     },
@@ -109,7 +109,7 @@
     "https://pelord.github.io/igo2/contexts/variousFormats.json": "6ffc824c9129efa6a630ca471d4b04466d2d674d",
     "https://pelord.github.io/igo2/contexts/workspace.json": "d9c76742d78a0469a855fea2aebd8ed44dcb4e5a",
     "https://pelord.github.io/igo2/favicon.ico": "1c2dd41874171f145418d08ee122dc4812791e17",
-    "https://pelord.github.io/igo2/index.html": "d01da02e7b4678dfc64b10085e19ae387b66789d",
+    "https://pelord.github.io/igo2/index.html": "921bcbb6c997cddeed373ded365e52accc43812b",
     "https://pelord.github.io/igo2/locale/en.json": "87042201702408d00f9bac191c9ed1ff9eb137f8",
     "https://pelord.github.io/igo2/locale/fr.json": "0a94b615c144e92fba9b7660bafa6eeafdfd0564",
     "https://pelord.github.io/igo2/main-es2015.4f183c0c6bab2e3c558e.js": "0e41c207d1800947356d7fca31f790e23932bd1e",
@@ -120,8 +120,8 @@
     "https://pelord.github.io/igo2/runtime-es2015.af1b92d1c4f31acf1ae5.js": "5cbeb61914d0a24983ab73b56cc50f68b89d22cb",
     "https://pelord.github.io/igo2/runtime-es5.af1b92d1c4f31acf1ae5.js": "6a8edbf1ea8fac05ce945a9cfe9577ae5d86df5d",
     "https://pelord.github.io/igo2/styles.a73143599ed5c7b2b558.css": "a8b378ef81f993f04fd7314b78cd837d9cf91983",
-    "https://pelord.github.io/igo2/vendor-es2015.31dedeb756d2f230ccde.js": "b6a32f2492202d567319c2d49d86408b982baa66",
-    "https://pelord.github.io/igo2/vendor-es5.31dedeb756d2f230ccde.js": "e85ad727b6b2fdcacd2fc27bbb07c0616db825e6"
+    "https://pelord.github.io/igo2/vendor-es2015.2fef919f3f3f0ac42f19.js": "e2d7b4a122dceeec606e5e1c01c726bd09fece4d",
+    "https://pelord.github.io/igo2/vendor-es5.2fef919f3f3f0ac42f19.js": "fefb361f8222ef464be8114611c5ede6194e0a3d"
   },
   "navigationUrls": [
     {
