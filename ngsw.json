@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1626281063971,
+  "timestamp": 1626283643071,
   "index": "/igo2/index.html",
   "assetGroups": [
     {
@@ -114,7 +114,7 @@
     "/igo2/locale/fr.json": "0a94b615c144e92fba9b7660bafa6eeafdfd0564",
     "/igo2/main-es2015.3220d4aa19e0071c0921.js": "f97cdccdc23f52751c5305798598f0b767314f83",
     "/igo2/main-es5.3220d4aa19e0071c0921.js": "603c694834083851ed0814f1b94ef79ab7489105",
-    "/igo2/manifest.webmanifest": "04271943a2b37e2022754afa68914c001e557836",
+    "/igo2/manifest.webmanifest": "fb0d9f7724a52ea63394fd98522d76f43a05762c",
     "/igo2/polyfills-es2015.bc9b9ffcfe3caa442389.js": "1f4939cbd874ab3e4e03db4facfd44fb501a1ff0",
     "/igo2/polyfills-es5.1230b26e2a649a5a090c.js": "3ace1e08cc8155f54e47942e9ec26ccb35e99bdc",
     "/igo2/runtime-es2015.af1b92d1c4f31acf1ae5.js": "5cbeb61914d0a24983ab73b56cc50f68b89d22cb",
