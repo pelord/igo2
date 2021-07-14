@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1626288426049,
+  "timestamp": 1626290666308,
   "index": "https://pelord.github.io/igo2/index.html",
   "assetGroups": [
     {
@@ -29,16 +29,16 @@
         "https://pelord.github.io/igo2/index.html",
         "https://pelord.github.io/igo2/locale/en.json",
         "https://pelord.github.io/igo2/locale/fr.json",
-        "https://pelord.github.io/igo2/main-es2015.e8f98e23caf65a8efd5e.js",
-        "https://pelord.github.io/igo2/main-es5.e8f98e23caf65a8efd5e.js",
+        "https://pelord.github.io/igo2/main-es2015.4f183c0c6bab2e3c558e.js",
+        "https://pelord.github.io/igo2/main-es5.4f183c0c6bab2e3c558e.js",
         "https://pelord.github.io/igo2/manifest.webmanifest",
         "https://pelord.github.io/igo2/polyfills-es2015.bc9b9ffcfe3caa442389.js",
         "https://pelord.github.io/igo2/polyfills-es5.1230b26e2a649a5a090c.js",
         "https://pelord.github.io/igo2/runtime-es2015.af1b92d1c4f31acf1ae5.js",
         "https://pelord.github.io/igo2/runtime-es5.af1b92d1c4f31acf1ae5.js",
         "https://pelord.github.io/igo2/styles.a73143599ed5c7b2b558.css",
-        "https://pelord.github.io/igo2/vendor-es2015.9bc9bf44160c4ecee7bf.js",
-        "https://pelord.github.io/igo2/vendor-es5.9bc9bf44160c4ecee7bf.js"
+        "https://pelord.github.io/igo2/vendor-es2015.31dedeb756d2f230ccde.js",
+        "https://pelord.github.io/igo2/vendor-es5.31dedeb756d2f230ccde.js"
       ],
       "patterns": []
     },
@@ -109,19 +109,19 @@
     "https://pelord.github.io/igo2/contexts/variousFormats.json": "6ffc824c9129efa6a630ca471d4b04466d2d674d",
     "https://pelord.github.io/igo2/contexts/workspace.json": "d9c76742d78a0469a855fea2aebd8ed44dcb4e5a",
     "https://pelord.github.io/igo2/favicon.ico": "1c2dd41874171f145418d08ee122dc4812791e17",
-    "https://pelord.github.io/igo2/index.html": "99fe1546a8f08c40eaa047066cc69dd9b92f6de6",
+    "https://pelord.github.io/igo2/index.html": "d01da02e7b4678dfc64b10085e19ae387b66789d",
     "https://pelord.github.io/igo2/locale/en.json": "87042201702408d00f9bac191c9ed1ff9eb137f8",
     "https://pelord.github.io/igo2/locale/fr.json": "0a94b615c144e92fba9b7660bafa6eeafdfd0564",
-    "https://pelord.github.io/igo2/main-es2015.e8f98e23caf65a8efd5e.js": "ee031d29779ddc7a97077b55108c41d9291b6d68",
-    "https://pelord.github.io/igo2/main-es5.e8f98e23caf65a8efd5e.js": "cf904525c784337f9e8082955125ebbfc01bfbc2",
+    "https://pelord.github.io/igo2/main-es2015.4f183c0c6bab2e3c558e.js": "0e41c207d1800947356d7fca31f790e23932bd1e",
+    "https://pelord.github.io/igo2/main-es5.4f183c0c6bab2e3c558e.js": "03532616216b9ec9d4085093c60cc745b7c344c2",
     "https://pelord.github.io/igo2/manifest.webmanifest": "fb0d9f7724a52ea63394fd98522d76f43a05762c",
     "https://pelord.github.io/igo2/polyfills-es2015.bc9b9ffcfe3caa442389.js": "1f4939cbd874ab3e4e03db4facfd44fb501a1ff0",
     "https://pelord.github.io/igo2/polyfills-es5.1230b26e2a649a5a090c.js": "3ace1e08cc8155f54e47942e9ec26ccb35e99bdc",
     "https://pelord.github.io/igo2/runtime-es2015.af1b92d1c4f31acf1ae5.js": "5cbeb61914d0a24983ab73b56cc50f68b89d22cb",
     "https://pelord.github.io/igo2/runtime-es5.af1b92d1c4f31acf1ae5.js": "6a8edbf1ea8fac05ce945a9cfe9577ae5d86df5d",
     "https://pelord.github.io/igo2/styles.a73143599ed5c7b2b558.css": "a8b378ef81f993f04fd7314b78cd837d9cf91983",
-    "https://pelord.github.io/igo2/vendor-es2015.9bc9bf44160c4ecee7bf.js": "d548cd1923cb6d86e8d1409d20ef39a6a9e04434",
-    "https://pelord.github.io/igo2/vendor-es5.9bc9bf44160c4ecee7bf.js": "2c7d069d670ee44c998fb6b9f180f9c277772aff"
+    "https://pelord.github.io/igo2/vendor-es2015.31dedeb756d2f230ccde.js": "b6a32f2492202d567319c2d49d86408b982baa66",
+    "https://pelord.github.io/igo2/vendor-es5.31dedeb756d2f230ccde.js": "e85ad727b6b2fdcacd2fc27bbb07c0616db825e6"
   },
   "navigationUrls": [
     {
